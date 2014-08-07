@@ -9,4 +9,5 @@ I demonstrated one way of how to use this mechanism on a simple tiny application
 
 Простое html5 localStorage приложение - список дел.
 
-Это пример использования объекта localStorage.
+Это пример использования объекта localStorage,
+где демонстрируется один из возможных механизмов его использования.
